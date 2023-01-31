@@ -32,4 +32,5 @@ terus meningkatkan keterampilan saya dalam pengembangan aplikasi web dengan meng
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-critical?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/Hamzahxou/)](https://www.Instagram.com/Hamzahxou/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/overzah-xploit-529650239/)](https://www.linkedin.com/mwlite/in/overzah-xploit-529650239) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hamzahxou)](https://twitter.com/hamzahxou)
 
-**[blogworlds](https://blogworlds.github.io)**
+## My Activities
+<img alt="github-profile-summary-cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blogworlds&theme=nord_dark" width="100%">
