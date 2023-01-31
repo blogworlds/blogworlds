@@ -1,3 +1,4 @@
+<img alt="profile views" align="right" src="https://komarev.com/ghpvc/?username=blogworlds&color=yellow">
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Hamzahxou](https://blogworlds.github.io/about)!
 ## Highlights
 <a href="https://github.com/blogworlds/blogworlds.github.io">
