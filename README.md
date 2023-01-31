@@ -1,4 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Hamzahxou](https://blogworlds.github.io/about)!
+## Highlights
+<a href="https://github.com/blogworlds/blogworlds.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=blogworlds &repo=blogworlds.github.io" />
+</a>
 
 Sejak 2021, saya telah menyelami dunia pemrograman dalam pengembangan web dan berkesempatan untuk mengejar ilmu dan pengalaman secara intensif. Saya sangat senang dapat mempelajari berbagai macam teknologi dan mengaplikasikannya dalam pembuatan proyek yang menarik dan inovatif.  ✨😍
 
